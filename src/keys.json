@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "artify-420821",
+    "private_key_id": "b600fc6eee225d15b14d0c1c24c99b9c6b50a157",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYZBfKZVv344e+\nWnXnYoKfzEAl+M4xc9Hug17LVdxurwvM+hvFB5Hg/r1vgKFlS61mOhbwmE07VRnM\n99oiUTkn3JRaFucVz9Z/+3us30IruevWMFAZPqEX72ctmkhthXf7ncnLAJs/4igJ\nC7pl/dST4fk3XJRNAurW8mleiMuTuP0RsPiFf0Wri+T7J9F3o+UjrHOyXShlK0J3\nl4Vxb85ILk+BFC4vxc5lrWRO5A7xMBaa646WHEf0KhOljBv0hH7ltEY+Gt6YWWCo\nlAzMl09wWbY0F8T+8tc0tIzUevt/Vxi1AkLkcq3P/uWAq81rCdrwFcORF/+G7zi3\nRZMTFWY5AgMBAAECggEAEWxYP/7IvhXYnk3vbw4XSzfqGa1Rvdu1I+UHQI5Hjqwa\n2Eu8QxGzfxsBA6+cRF2brLV1i/qN0fvP4FxyJzxMIZ+Zopc9woOpzaYuJLy97wvp\nx+psLga4Gml3zYH3R/ZbmnwW50vhdDNiSm552FFmLaZHfSnrlsZ/nSXIIFPZmsD9\nmyQemVbmdpvGJvhYxuBpbeBIk1JJ5/iR/hoQcD0JoQfGJkvj2CMEf86dVo4uhP2a\nTFyZeedl0Mbuno5zx+yJiJuOrErS39BmECFQ/2gdcu7FU4vsWjnjAyJsS+h6C4AI\nZXKYNLlAjSrxxhVvwAbkpBU9GJM1B7Ad+cWNeSL9RQKBgQDHx6Ls7Fxmn7xVgfIs\nh1AwMxEN1WDntEwrlQJPbDtBc+uE4f6QZb/oiO5sfBIi8x2c/GNRACb8xDlDGIQc\nFgQxuVZLl6gSKOwffSKNe/ZpgvrJ+XLL9xK8n1es1IHOzrFtjPS1FVDysrd5OIiF\nqgC1JBFI7L84JoHwsko3D4o3PwKBgQDDRoLUtpHP/v2fkvP8xRn9xTFeJ8cVdoj+\niVdjPqeoQvFEYkTcr7h1MP5W7wXQ9j6BEYkrJ00kXp52gkRKIai8yUAtbMK0kO77\n7tI/tXI7v6Z0tVK9lANR7i1wXu0dqHqfupZ//thM6szOVcM2nxZzAttWiSQTS51/\n/GNrF2C8hwKBgQCQIEY6Borivnpwdb7wwO3o1+6FvFqczkXlayqvgbV+EtLmmuO7\n6Kv6Zk8blKbA8AN9Lde4qBN4Z1eoQBeO65M7DCplfpOSBlPSo8Q5riSnGgczjvJy\nk1zBF3N5DBZZzGPUVMx1l1s+vBABM/fJ9ktsYwjVQ3bwW1eC/hzsfBmKoQKBgC+I\nrXY8DthzuKcsbWn9TKtiYfcKdcK6vPRA2F3XNZaW3QYJabvSpnMYfwEIZAEOv/5J\nF3vCsFuHEMnGQftNoDZ8QrwL+oVbtmDrLJDHiUwUBd/o94AgVIKQGM1+vfd3OIpD\nMDlt/pcSnNIpPEDCjwNmEaBJ99cek/NAq6643RpnAoGARTGsZYSTf0ilHPNBwBeC\nKHsW9N4y6MyResMz4AC/SBAFhECzZOtSLd+WH9RDAwYNmdddRdVpNQMOlGOjexTy\nvtHBINCimanExIEk481w8PASatstVFKF5ioNQSulEO9A+utN6MunV2ssd1oR6ekA\nwa4Cs30yDKM7Hkt1syFcunE=\n-----END PRIVATE KEY-----\n",
+    "client_email": "gokulkrishna@artify-420821.iam.gserviceaccount.com",
+    "client_id": "118144003899253864022",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gokulkrishna%40artify-420821.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
